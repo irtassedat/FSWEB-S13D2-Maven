@@ -55,6 +55,7 @@ public class Main {
             result = result + numberWords[digit];
             if (i < numberStr.length() - 1) {
                 result += " ";
+                //test1
             }
         }
 
